@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package view;
+// alterado da web
 
 import connection.ConnectionFactory;
 import java.sql.Connection;
