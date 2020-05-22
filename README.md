@@ -16,4 +16,4 @@ Trabalho desenvolvido em Java com MySQL
 
 ## Colocando para funcionar
 - Abra o projeto no NetBeans
-- Clique com o botão direito do mouse sobre o projeto, clique em `limpar e constrir` e em seguida execute o projeto.
+- Clique com o botão direito do mouse sobre o projeto, clique em `limpar e construir` e em seguida execute o projeto.
