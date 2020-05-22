@@ -11,7 +11,7 @@ Trabalho desenvolvido em Java com MySQL
 - Uma vez no diretório escohido rode o comando: `git clone https://github.com/denilsondmoura/Oficina-do-Sr.-Jos-.git`
   
 ## Montando a base de dados
-- Baixe o [arquivo] (https://drive.google.com/open?id=1hXUq0GwyXR2_bNrA3CHWeQYKteGmsOox) com as queries.
+- Baixe o [arquivo](https://drive.google.com/open?id=1hXUq0GwyXR2_bNrA3CHWeQYKteGmsOox) com as queries.
 - Abra o arquivo no Workbench e execute os comandos.
 
 ## Colocando para funcionar
